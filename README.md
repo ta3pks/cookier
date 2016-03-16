@@ -1,4 +1,10 @@
-###OBJECT METHODS
+##HOW TO INSTALL 
+```bower install cookier``` 
+<br/>
+_or alternatively_<br/> 
+```git clone github.com/nikosEfthias/cookier```
+
+##OBJECT METHODS
 ```javascript
 cookier
 	->parse:function(cookieName) //cookiename is optional if not given returns an object with all cookies
