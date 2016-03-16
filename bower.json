@@ -1,0 +1,28 @@
+{
+  "name": "cookier",
+  "main": "cookier.js",
+  "homepage": "https://github.com/nikosefthias/cookier",
+  "authors": [
+    "nikos <nikos.efthias@gmail.com>"
+  ],
+  "description": "A library to parse , remove , delete cookies",
+  "moduleType": [],
+  "keywords": [
+    "Cookie",
+    "cookies",
+    "document",
+    "cookies",
+    "cookier",
+    "cookier.js",
+    "javascript",
+    "js"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
